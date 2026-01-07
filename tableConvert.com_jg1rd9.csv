@@ -1,0 +1,9 @@
+order_id,order_date,customer_id,city,category,amount,payment_status
+1001,2025-12-01,C001,Pune,Electronics,49999,Paid
+1002,2025-12-02,C002,Mumbai,Fashion,1999,Paid
+1003,2025-12-02,C003,Pune,Grocery,899,Pending
+1004,2025-12-03,C004,Thane,Electronics,21999,Paid
+1005,2025-12-03,C005,Mumbai,Grocery,1299,Failed
+1006,2025-12-04,C006,Pune,Fashion,2499,Paid
+1007,2025-12-05,C007,Thane,Electronics,9999,Pending
+1008,2025-12-05,C008,Pune,Grocery,499,Paid
