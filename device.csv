@@ -1,0 +1,7 @@
+deviceId,region,temperature,eventTime
+dev01,North,32,2026-01-09T10:00:00
+dev01,North,34,2026-01-09T10:05:00
+dev02,South,28,2026-01-09T10:00:00
+dev02,South,30,2026-01-09T10:05:00
+dev03,East,25,2026-01-09T10:00:00
+dev03,East,27,2026-01-09T10:05:00
